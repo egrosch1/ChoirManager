@@ -20,32 +20,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/Attendance.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BdHRlbmRhbmNlLmNzaHRtbA==
+[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Attendance/Attendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9BdHRlbmRhbmNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/MassPrep.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NYXNzUHJlcC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/RehearsalPrep.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWhlYXJzYWxQcmVwLmNzaHRtbA==
+[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/MassPrep/MassPrep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFzc1ByZXAvTWFzc1ByZXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/Solos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Tb2xvcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Home/Student.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdHVkZW50LmNzaHRtbA==
+[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/RehearsalPrep/RehearsalPrep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVoZWFyc2FsUHJlcC9SZWhlYXJzYWxQcmVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Shared/Error.cshtml]
@@ -54,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Solos/Solos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29sb3MvU29sb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/Student/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9TdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/Views/_ViewImports.cshtml]

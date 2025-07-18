@@ -94,3 +94,4 @@
 /Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/obj/Debug/net9.0/ChoirManager.pdb
 /Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/obj/Debug/net9.0/ChoirManager.genruntimeconfig.cache
 /Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/obj/Debug/net9.0/ref/ChoirManager.dll
+/Users/emilyestrada/Desktop/SJN_Choir/ChoirManager/obj/Debug/net9.0/ChoirManager.sourcelink.json

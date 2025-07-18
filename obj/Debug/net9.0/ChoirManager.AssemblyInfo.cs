@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChoirManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d2811d301f7689eb3aec277e0c1a28b5ea30d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83a67820c0e65242d15b3a54340389480d69a23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChoirManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChoirManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

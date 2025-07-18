@@ -1,0 +1,32 @@
+@model IEnumerable<ChoirManager.Models.Student>
+
+@{
+    ViewData["Title"] = "Student Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Student Manager</h1>
+</div>
+
+
+<h1>All Students</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Wants Solos?</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.FirstName</td>
+                <td>@student.LastName</td>
+                <td>@(student.WantsSolos ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -23,9 +23,25 @@ namespace ChoirManager.Controllers
         return View(students);
     }
 
-        public IActionResult Student()
+        [HttpGet]
+        public IActionResult Create()
         {
             return View();
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Students.Add(student);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+
+         return View(student);  
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
